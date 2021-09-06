@@ -1,0 +1,32 @@
+#If the sender isn't a player (Console).
+Sender-Not-A-Player: '&cYou are not a player!'
+#Permission to use and see the staff chat
+StaffChat-Permission: 'staffchat.staff'
+
+#No permissions to use the command
+No-Permission: '&cNo permissions!'
+
+#message you receive when the StaffChat is disabled
+StaffChat-Disabled: '&cStaffChat &c&lDisactivé!'
+
+#message you receive when the StaffChat is enabled.
+StaffChat-Enabled: '&cStaffChat &a&lActivé!'
+
+#staff chat prefix in the staff chat
+StaffChat-Prefix: '&8[&c&lStaffChat&8] '
+
+#message color in the staff chat
+StaffChat-Message-Color: '&6&l'
+
+#suffix in the staff chat (keep 1 space either side as shown below)
+StaffChat-Suffix: ' &f&l>> '
+
+# this is what the StaffChat format looks like (this cannot be edited)
+#prefix (player) suffix chatcolor: message
+
+##############################################################################################
+Player-Requested-Help: '&aAssitance Has Been Requested!'
+Staff-Received-Help-Request: '&a{player} has asked for help!'
+Staff-Help-Request-Permission: 'staff.request'
+Staff-Receive-Help-Permission: 'staff.receive'
+No-Permission-Request-Request: '&cNo Perms to request help!'

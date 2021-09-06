@@ -1,0 +1,7 @@
+name: StaffChat
+version: 1.0
+author: failaxite
+main: fr.failaxite.Main12
+commands:
+    Staffchat:
+        Usage: /<command>
